@@ -6,15 +6,15 @@ My software essentials, the handy tools, the things that make my life easier and
 
 In no particular order:
 
+- [Thorium Reader](https://github.com/edrlab/thorium-reader) - Nice EPUB reader, keeping things much simpler than Calibre. Cross-platform.
 - [LocalSend](https://github.com/localsend/localsend) - A god send, THE god send. Send files wirelessly from device to device without needing to upload it to the cloud. Cross-platform.
 - [Flow Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - A nifty launch/search bar for Windows. Very nifty.
-- [Notesnook](https://github.com/streetwriters/notesnook) - I tried almost every (non-Mac exclusive) note-taking software under the sun and I'm really liking this one, very fast and feature rich. Cross-platform.
+- [Obsidian](https://github.com/obsidianmd) - I tried almost every (non-Mac exclusive) note-taking software under the sun and this is my favorite for keeping markdown notes. This replaced Notesnook and Sublime Text for me. Cross-platform.
 - [Ludo](https://github.com/libretro/ludo) - For when you want to play some retro games without wanting to get deep into the weeds of setting up RetroArch and stuff.
 - [LosslessCut](https://github.com/mifi/lossless-cut) - I use this pretty often to losslessly edit videos. Super lightweight and fast. Cross-platform.
 - [LightShot](https://app.prntscr.com/en/index.html) - Taking screenshots made easy. Windows and Mac.
-- [Sublime Text](https://www.sublimetext.com/) - My go-to note taking app for the last few years, also a very solid code editor but I still mainly use [Visual Studio Code](https://code.visualstudio.com/) for actual coding. Cross-platform.
 - [foobar2000](http://www.foobar2000.org/) - My favorite audio playback software for Windows. Extremely customizable.
-- [SpeedCrunch](https://speedcrunch.org/) - Hands down the best software calculator I've ever used. Cross-platform.
+- [SpeedCrunch](https://speedcrunch.org/) - I don't do any math beyond basic arithmatic but this is hands down the best software calculator I've ever used. Cross-platform.
 - [PeaCalc](https://github.com/JdSchlachter/PeaCalc/) - This one is WAY more lightweight and faster than SpeedCrunch, but not as pretty and can't really be customized. Windows only.
 - [VLC media player](https://www.videolan.org/vlc/index.html) - Who doesn't know this one by now? THE best video player full stop. Cross-platform.
 - [Notepad2e](https://github.com/ProgerXP/Notepad2e) - The best replacement for Windows default notepad. It can fully replace it in the installation. It highlights code, has soft-wrapping, character counter, and many more features. Plus it is highly customizable.
