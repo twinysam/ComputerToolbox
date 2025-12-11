@@ -14,7 +14,7 @@ In no particular order:
 - [LosslessCut](https://github.com/mifi/lossless-cut) - I use this pretty often to losslessly edit videos. Super lightweight and fast. Cross-platform.
 - [LightShot](https://app.prntscr.com/en/index.html) - Taking screenshots made easy. Windows and Mac.
 - [foobar2000](http://www.foobar2000.org/) - My favorite audio playback software for Windows. Extremely customizable.
-- [SpeedCrunch](https://speedcrunch.org/) - I don't do any math beyond basic arithmatic but this is hands down the best software calculator I've ever used. Cross-platform.
+- [SpeedCrunch](https://heldercorreia.bitbucket.io/speedcrunch/) - I don't do any math beyond basic arithmatic but this is hands down the best software calculator I've ever used. Cross-platform.
 - [PeaCalc](https://github.com/JdSchlachter/PeaCalc/) - This one is WAY more lightweight and faster than SpeedCrunch, but not as pretty and can't really be customized. Windows only.
 - [VLC media player](https://www.videolan.org/vlc/index.html) - Who doesn't know this one by now? THE best video player full stop. Cross-platform.
 - [Notepad2e](https://github.com/ProgerXP/Notepad2e) - The best replacement for Windows default notepad. It can fully replace it in the installation. It highlights code, has soft-wrapping, character counter, and many more features. Plus it is highly customizable.
